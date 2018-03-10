@@ -16,3 +16,4 @@ while (i<facts.length) {
   return array; 
 } 
 
+function 
